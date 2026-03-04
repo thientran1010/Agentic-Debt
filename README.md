@@ -1,27 +1,4 @@
-<!-- # agent_debt
-
-Temporal technical-debt (code smell) analysis over ChatDev traces.
-
-- Analysis script: `agent_debt/scripts/temporal_debt_report.py`
-- Results JSON: `agent_debt/data/temporal_debt_results.json`
-- Narrative report: `agent_debt/Report.md`
-
-## Run
-```bash
-python3 agent_debt/scripts/temporal_debt_report.py \
-  --out-json agent_debt/data/temporal_debt_results.json
-```
-
-## Notes
-- ML smells are intentionally excluded from the analysis.
-- Token usage is used only as a **proxy** for verification effort (summary-level correlations; see `agent_debt/Report.md`).
-- “Density” in the report refers to **smell count** (not normalized by LOC/KLOC).
-- DPy outputs are cached under `agent_debt/data/processed_data/temporal_debt/`; use `--force-dpy` to recompute. -->
-
-
 # Report — Temporal Technical Debt Accumulation in LLM Multi‑Agent Workflows (ChatDev Traces)
-
-Generated: 2026-03-04
 
 ## Research Question (Q1)
 **How does technical debt accumulate in LLM‑MA workflows for software development tasks?**
@@ -30,17 +7,17 @@ This report shifts analysis from “final-state” evaluation to **temporal** ev
 
 ## Data & Method
 
-### Inputs
+### Inputs 
 - **Traces**: `agent_debt/traces/*/*.log` (multi‑phase chat + embedded code blocks).
 - **Token usage (proxy)**: `agent_debt/data/ChatDev_GPT-5_Trace_Analysis_Results.json` (used only to proxy verification effort; see Discussion §4).
 - **Smell detector**: **DPy (DesignitePython)** run on reconstructed snapshots.
 
-### Snapshots (per project)
+### Snapshots (per project) 
 - **post_coding**: Python files reconstructed from code blocks after the Coding phase.
 - **post_review**: post_coding + updates from CodeReviewModification messages.
 - **final**: Python files from the final on-disk project directory.
 
-### Smell layers and derived metrics
+### Smell layers and derived metrics 
 DPy smell layers used in this analysis:
 - **Architecture smells** (DPy)
 - **Design smells** (DPy)
