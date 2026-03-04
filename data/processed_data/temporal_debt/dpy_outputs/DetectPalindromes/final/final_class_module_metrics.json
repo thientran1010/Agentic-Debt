@@ -14,7 +14,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/file_utils.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/file_utils.py"
     },
     {
         "Project": "final",
@@ -31,7 +31,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/palindrome_detector.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/palindrome_detector.py"
     },
     {
         "Project": "final",
@@ -48,7 +48,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/palindrome_detector.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/palindrome_detector.py"
     },
     {
         "Project": "final",
@@ -65,7 +65,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/palindrome_detector.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/palindrome_detector.py"
     },
     {
         "Project": "final",
@@ -82,7 +82,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/gui_app.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/gui_app.py"
     },
     {
         "Project": "final",
@@ -99,7 +99,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/gui_app.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/gui_app.py"
     },
     {
         "Project": "final",
@@ -116,7 +116,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/exporter.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/exporter.py"
     },
     {
         "Project": "final",
@@ -133,6 +133,6 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/final/main.py"
     }
 ]

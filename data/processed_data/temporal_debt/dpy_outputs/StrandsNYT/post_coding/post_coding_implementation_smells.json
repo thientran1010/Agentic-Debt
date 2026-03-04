@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/main.py",
         "Description": "A line with 133 chars in main exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Complex method",
         "Method": "validate_integrity",
         "Line no": "52 - 88",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Method 'validate_integrity' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long parameter list",
         "Method": "__init__",
         "Line no": "20 - 40",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "__init__ has 7 parameters, exceeding the max of 5."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "default_puzzle",
         "Line no": "114",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "A line with 355 chars in default_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "default_puzzle",
         "Line no": "141",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "A line with 130 chars in default_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "A line with 335 chars in puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "92",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 6 used in default_puzzle."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "92",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 8 used in default_puzzle."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "121",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 6 used in default_puzzle."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "121",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 7 used in default_puzzle."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "124",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 2 used in default_puzzle."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "126",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 2 used in default_puzzle."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "126",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 6 used in default_puzzle."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "126",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 2 used in default_puzzle."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "126",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 7 used in default_puzzle."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "126",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 3 used in default_puzzle."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "126",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 7 used in default_puzzle."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "129",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 3 used in default_puzzle."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "132",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 3 used in default_puzzle."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "132",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 5 used in default_puzzle."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "132",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 3 used in default_puzzle."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "132",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 6 used in default_puzzle."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "132",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 4 used in default_puzzle."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "132",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 6 used in default_puzzle."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "132",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 4 used in default_puzzle."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "132",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 7 used in default_puzzle."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "135",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 4 used in default_puzzle."
     },
     {
@@ -304,7 +304,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 4 used in default_puzzle."
     },
     {
@@ -315,7 +315,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 5 used in default_puzzle."
     },
     {
@@ -326,7 +326,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 5 used in default_puzzle."
     },
     {
@@ -337,7 +337,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 5 used in default_puzzle."
     },
     {
@@ -348,7 +348,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 5 used in default_puzzle."
     },
     {
@@ -359,7 +359,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 6 used in default_puzzle."
     },
     {
@@ -370,7 +370,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 5 used in default_puzzle."
     },
     {
@@ -381,7 +381,7 @@
         "Smell": "Magic number",
         "Method": "default_puzzle",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/puzzle.py",
         "Description": "Magic number 7 used in default_puzzle."
     },
     {
@@ -392,7 +392,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/wordlist.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/wordlist.py",
         "Description": "A line with 214 chars in wordlist exceeds the maximum length of 120 characters."
     },
     {
@@ -403,7 +403,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "10",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/wordlist.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/wordlist.py",
         "Description": "A line with 2178 chars in wordlist exceeds the maximum length of 120 characters."
     },
     {
@@ -414,7 +414,7 @@
         "Smell": "Long statement",
         "Method": "_populate_grid",
         "Line no": "93",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/ui.py",
         "Description": "A line with 134 chars in _populate_grid exceeds the maximum length of 120 characters."
     },
     {
@@ -425,7 +425,7 @@
         "Smell": "Long statement",
         "Method": "update_status",
         "Line no": "236",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/ui.py",
         "Description": "A line with 125 chars in update_status exceeds the maximum length of 120 characters."
     },
     {
@@ -436,7 +436,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/ui.py",
         "Description": "A line with 192 chars in ui exceeds the maximum length of 120 characters."
     },
     {
@@ -447,7 +447,7 @@
         "Smell": "Complex method",
         "Method": "try_commit_selection",
         "Line no": "44 - 90",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
         "Description": "Method 'try_commit_selection' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -458,7 +458,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
         "Description": "A line with 179 chars in game exceeds the maximum length of 120 characters."
     },
     {
@@ -469,7 +469,7 @@
         "Smell": "Magic number",
         "Method": "try_commit_selection",
         "Line no": "46",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
         "Description": "Magic number 2 used in try_commit_selection."
     },
     {
@@ -480,7 +480,7 @@
         "Smell": "Magic number",
         "Method": "try_commit_selection",
         "Line no": "81",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
         "Description": "Magic number 4 used in try_commit_selection."
     },
     {
@@ -491,7 +491,7 @@
         "Smell": "Magic number",
         "Method": "try_commit_selection",
         "Line no": "86",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/post_coding/strands/game.py",
         "Description": "Magic number 3 used in try_commit_selection."
     }
 ]

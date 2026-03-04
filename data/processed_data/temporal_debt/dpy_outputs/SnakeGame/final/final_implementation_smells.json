@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "spawn",
         "Line no": "17",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/food.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/food.py",
         "Description": "A line with 202 chars in spawn exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "11",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/snake.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/snake.py",
         "Description": "A line with 140 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "set_direction",
         "Line no": "26",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/snake.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/snake.py",
         "Description": "A line with 122 chars in set_direction exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "move",
         "Line no": "40",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/snake.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/snake.py",
         "Description": "A line with 187 chars in move exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long parameter list",
         "Method": "__init__",
         "Line no": "9 - 15",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/ui.py",
         "Description": "__init__ has 6 parameters, exceeding the max of 5."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "9",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/ui.py",
         "Description": "Magic number 255 used in __init__."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "9",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/ui.py",
         "Description": "Magic number 255 used in __init__."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "9",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/ui.py",
         "Description": "Magic number 255 used in __init__."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Complex conditional",
         "Method": "handle_input",
         "Line no": "88",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "A conditional in handle_input has 4 conditions, more than the recommended maximum 3 conditions."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "handle_input",
         "Line no": "78",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "A line with 161 chars in handle_input exceeds the maximum length of 120 characters."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "step",
         "Line no": "100",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "A line with 209 chars in step exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "run",
         "Line no": "205",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "A line with 273 chars in run exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "A line with 243 chars in game exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "41",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "41",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "reset",
         "Line no": "68",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "Magic number 2 used in reset."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "reset",
         "Line no": "68",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/game.py",
         "Description": "Magic number 2 used in reset."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Complex method",
         "Method": "choose_difficulty",
         "Line no": "11 - 83",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "Method 'choose_difficulty' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Long method",
         "Method": "choose_difficulty",
         "Line no": "11 - 83",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "Method 'choose_difficulty' is too long (70 lines)."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Long statement",
         "Method": "choose_difficulty",
         "Line no": "30",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "A line with 123 chars in choose_difficulty exceeds the maximum length of 120 characters."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Long statement",
         "Method": "choose_difficulty",
         "Line no": "36",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "A line with 129 chars in choose_difficulty exceeds the maximum length of 120 characters."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Long statement",
         "Method": "choose_difficulty",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "A line with 128 chars in choose_difficulty exceeds the maximum length of 120 characters."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Long statement",
         "Method": "choose_difficulty",
         "Line no": "76",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "A line with 133 chars in choose_difficulty exceeds the maximum length of 120 characters."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "A line with 240 chars in main exceeds the maximum length of 120 characters."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Magic number",
         "Method": "choose_difficulty",
         "Line no": "22",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "Magic number 240 used in choose_difficulty."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Magic number",
         "Method": "choose_difficulty",
         "Line no": "23",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "Magic number 54 used in choose_difficulty."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Magic number",
         "Method": "choose_difficulty",
         "Line no": "24",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "Magic number 16 used in choose_difficulty."
     },
     {
@@ -304,7 +304,7 @@
         "Smell": "Magic number",
         "Method": "choose_difficulty",
         "Line no": "27",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "Magic number 2 used in choose_difficulty."
     },
     {
@@ -315,7 +315,7 @@
         "Smell": "Magic number",
         "Method": "choose_difficulty",
         "Line no": "27",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/final/main.py",
         "Description": "Magic number 2 used in choose_difficulty."
     }
 ]

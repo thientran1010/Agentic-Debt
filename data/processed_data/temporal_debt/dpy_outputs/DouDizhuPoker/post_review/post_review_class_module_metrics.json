@@ -14,7 +14,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/models.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/models.py"
     },
     {
         "Project": "post_review",
@@ -31,7 +31,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/models.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/models.py"
     },
     {
         "Project": "post_review",
@@ -48,7 +48,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/models.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/models.py"
     },
     {
         "Project": "post_review",
@@ -65,7 +65,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/ai.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/ai.py"
     },
     {
         "Project": "post_review",
@@ -82,7 +82,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/ai.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/ai.py"
     },
     {
         "Project": "post_review",
@@ -99,7 +99,7 @@
         "Fan-In": 1,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/gui.py"
     },
     {
         "Project": "post_review",
@@ -116,7 +116,7 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/gui.py"
     },
     {
         "Project": "post_review",
@@ -133,7 +133,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/rules.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/rules.py"
     },
     {
         "Project": "post_review",
@@ -150,7 +150,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/rules.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/rules.py"
     },
     {
         "Project": "post_review",
@@ -167,7 +167,7 @@
         "Fan-In": 1,
         "Fan-Out": 2,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -184,7 +184,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -201,7 +201,7 @@
         "Fan-In": 1,
         "Fan-Out": 2,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -218,6 +218,6 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/post_review/main.py"
     }
 ]

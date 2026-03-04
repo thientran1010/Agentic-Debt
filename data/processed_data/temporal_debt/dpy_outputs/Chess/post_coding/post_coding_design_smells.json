@@ -6,7 +6,7 @@
         "Smell": "Feature envy",
         "Class": "main",
         "Line no": "30",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/post_coding/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/post_coding/main.py",
         "Description": "Function 'main' in module 'main' seems to access code elements that are outside of the module more than its internal to module members. It seems the method is more suitable in `board`."
     },
     {
@@ -16,7 +16,7 @@
         "Smell": "Insufficient modularization",
         "Class": "Board",
         "Line no": "13",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/post_coding/engine/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/post_coding/engine/board.py",
         "Description": "Class 'Board' is insufficiently modularized with NOPM: 12, WMC: 145, NOM: 15."
     },
     {
@@ -26,7 +26,7 @@
         "Smell": "Insufficient modularization",
         "Class": "board",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/post_coding/engine/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/post_coding/engine/board.py",
         "Description": "Module 'board' is insufficiently modularized with NOPM: 0, WMC: 145, NOM: 0."
     }
 ]

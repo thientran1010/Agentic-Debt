@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/main.py",
         "Description": "A line with 125 chars in main exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Complex method",
         "Method": "redo_move",
         "Line no": "98 - 122",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
         "Description": "Method 'redo_move' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "handle_board_click",
         "Line no": "46",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
         "Description": "A line with 173 chars in handle_board_click exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
         "Description": "A line with 191 chars in controller exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "handle_board_click",
         "Line no": "77",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
         "Description": "Magic number 2 used in handle_board_click."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "redo_move",
         "Line no": "109",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
         "Description": "Magic number 2 used in redo_move."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "get_status_text",
         "Line no": "131",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py",
         "Description": "Magic number 2 used in get_status_text."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "place_stone",
         "Line no": "45",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "A line with 218 chars in place_stone exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long statement",
         "Method": "undo",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "A line with 145 chars in undo exceeds the maximum length of 120 characters."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "redo",
         "Line no": "74",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "A line with 158 chars in redo exceeds the maximum length of 120 characters."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "_gather_in_direction",
         "Line no": "101",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "A line with 259 chars in _gather_in_direction exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "check_win_from",
         "Line no": "115",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "A line with 241 chars in check_win_from exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "A line with 164 chars in model exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "20",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 15 used in __init__."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "21",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 5 used in __init__."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "place_stone",
         "Line no": "50",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 2 used in place_stone."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "check_win_from",
         "Line no": "123",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 2 used in check_win_from."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "check_win_from",
         "Line no": "131",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 5 used in check_win_from."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "check_win_from",
         "Line no": "136",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 4 used in check_win_from."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "check_win_from",
         "Line no": "137",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 4 used in check_win_from."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "check_win_from",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 5 used in check_win_from."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Magic number",
         "Method": "check_win_from",
         "Line no": "139",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 5 used in check_win_from."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Magic number",
         "Method": "check_win_from",
         "Line no": "140",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py",
         "Description": "Magic number 5 used in check_win_from."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Complex method",
         "Method": "draw_stones",
         "Line no": "67 - 96",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Method 'draw_stones' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Long statement",
         "Method": "pixel_to_cell",
         "Line no": "113",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "A line with 157 chars in pixel_to_cell exceeds the maximum length of 120 characters."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "170",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "A line with 129 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "A line with 218 chars in view exceeds the maximum length of 120 characters."
     },
     {
@@ -304,7 +304,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "23",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 40 used in __init__."
     },
     {
@@ -315,7 +315,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "24",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 30 used in __init__."
     },
     {
@@ -326,7 +326,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -337,7 +337,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "34",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -348,7 +348,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 3 used in draw_grid."
     },
     {
@@ -359,7 +359,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 3 used in draw_grid."
     },
     {
@@ -370,7 +370,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 3 used in draw_grid."
     },
     {
@@ -381,7 +381,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 11 used in draw_grid."
     },
     {
@@ -392,7 +392,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 7 used in draw_grid."
     },
     {
@@ -403,7 +403,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 7 used in draw_grid."
     },
     {
@@ -414,7 +414,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 11 used in draw_grid."
     },
     {
@@ -425,7 +425,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 3 used in draw_grid."
     },
     {
@@ -436,7 +436,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 11 used in draw_grid."
     },
     {
@@ -447,7 +447,7 @@
         "Smell": "Magic number",
         "Method": "draw_grid",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 11 used in draw_grid."
     },
     {
@@ -458,7 +458,7 @@
         "Smell": "Magic number",
         "Method": "draw_stones",
         "Line no": "71",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 4 used in draw_stones."
     },
     {
@@ -469,7 +469,7 @@
         "Smell": "Magic number",
         "Method": "draw_stones",
         "Line no": "71",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 2 used in draw_stones."
     },
     {
@@ -480,7 +480,7 @@
         "Smell": "Magic number",
         "Method": "pixel_to_cell",
         "Line no": "130",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 0.4 used in pixel_to_cell."
     },
     {
@@ -491,7 +491,7 @@
         "Smell": "Magic number",
         "Method": "show_winner",
         "Line no": "211",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py",
         "Description": "Magic number 2 used in show_winner."
     }
 ]

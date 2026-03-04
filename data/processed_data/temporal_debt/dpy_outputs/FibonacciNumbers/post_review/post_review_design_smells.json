@@ -6,7 +6,7 @@
         "Smell": "Multifaceted abstraction",
         "Class": "fibonacci",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FibonacciNumbers/post_review/fibonacci.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FibonacciNumbers/post_review/fibonacci.py",
         "Description": "Class 'fibonacci' has a high LCOM value of 1, indicating it may have multiple responsibilities."
     }
 ]

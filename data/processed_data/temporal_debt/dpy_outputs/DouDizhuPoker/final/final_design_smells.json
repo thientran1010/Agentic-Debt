@@ -6,7 +6,7 @@
         "Smell": "Feature envy",
         "Class": "Deck",
         "Line no": "38",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DouDizhuPoker/final/models.py",
         "Description": "Method '__init__' in class 'Deck' seems to access code elements that are outside of the class more than its internal to class members. It seems the method is more suitable in `models`."
     }
 ]

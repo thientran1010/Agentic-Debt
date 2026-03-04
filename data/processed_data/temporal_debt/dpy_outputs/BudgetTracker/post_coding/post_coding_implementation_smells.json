@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "filtered_transactions",
         "Line no": "140 - 169",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
         "Description": "Method 'filtered_transactions' has a cyclomatic complexity of 15, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long parameter list",
         "Method": "edit_transaction",
         "Line no": "97 - 111",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
         "Description": "edit_transaction has 6 parameters, exceeding the max of 5."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "add_transaction",
         "Line no": "84",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
         "Description": "A line with 136 chars in add_transaction exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Magic number",
         "Method": "from_row",
         "Line no": "37",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
         "Description": "Magic number 3 used in from_row."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "from_row",
         "Line no": "38",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
         "Description": "Magic number 4 used in from_row."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "from_row",
         "Line no": "39",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py",
         "Description": "Magic number 5 used in from_row."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Complex method",
         "Method": "load_model",
         "Line no": "62 - 114",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py",
         "Description": "Method 'load_model' has a cyclomatic complexity of 18, exceeding the max of 6."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py",
         "Description": "A line with 135 chars in storage exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "save_model",
         "Line no": "125",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py",
         "Description": "Magic number 5 used in save_model."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Complex method",
         "Method": "_on_submit",
         "Line no": "298 - 328",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
         "Description": "Method '_on_submit' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Empty catch block",
         "Method": "_to_int_or_none",
         "Line no": "268",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
         "Description": "Empty catch block found in _to_int_or_none."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Empty catch block",
         "Method": "_on_close",
         "Line no": "422",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
         "Description": "Empty catch block found in _on_close."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "_build_filter_frame",
         "Line no": "152",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
         "Description": "A line with 128 chars in _build_filter_frame exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Long statement",
         "Method": "_refresh_table",
         "Line no": "257",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
         "Description": "A line with 136 chars in _refresh_table exceeds the maximum length of 120 characters."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Long statement",
         "Method": "_on_export_copy",
         "Line no": "389",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
         "Description": "A line with 181 chars in _on_export_copy exceeds the maximum length of 120 characters."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py",
         "Description": "A line with 138 chars in ui exceeds the maximum length of 120 characters."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Empty catch block",
         "Method": "parse_float",
         "Line no": "25",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/utils.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/utils.py",
         "Description": "Empty catch block found in parse_float."
     }
 ]

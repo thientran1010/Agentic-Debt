@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "build_ui",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
         "Description": "A line with 230 chars in build_ui exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "build_ui",
         "Line no": "74",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
         "Description": "A line with 227 chars in build_ui exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "_build_grid_buttons",
         "Line no": "116",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
         "Description": "A line with 293 chars in _build_grid_buttons exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "update_status",
         "Line no": "175",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
         "Description": "A line with 140 chars in update_status exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "show_about",
         "Line no": "232",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
         "Description": "A line with 218 chars in show_about exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/gui.py",
         "Description": "A line with 576 chars in gui exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/constants.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/constants.py",
         "Description": "A line with 174 chars in constants exceeds the maximum length of 120 characters."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Complex method",
         "Method": "check_winner",
         "Line no": "95 - 123",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
         "Description": "Method 'check_winner' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long statement",
         "Method": "reset",
         "Line no": "27",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
         "Description": "A line with 214 chars in reset exceeds the maximum length of 120 characters."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "make_move",
         "Line no": "48",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
         "Description": "A line with 147 chars in make_move exceeds the maximum length of 120 characters."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "check_winner",
         "Line no": "96",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
         "Description": "A line with 225 chars in check_winner exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/game_logic.py",
         "Description": "A line with 261 chars in game_logic exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TicTacToe/post_review/main.py",
         "Description": "A line with 144 chars in main exceeds the maximum length of 120 characters."
     }
 ]

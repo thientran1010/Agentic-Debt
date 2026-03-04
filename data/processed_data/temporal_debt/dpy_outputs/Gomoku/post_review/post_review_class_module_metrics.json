@@ -14,7 +14,7 @@
         "Fan-In": 0,
         "Fan-Out": 2,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/main.py"
     },
     {
         "Project": "post_review",
@@ -31,7 +31,7 @@
         "Fan-In": 1,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py"
     },
     {
         "Project": "post_review",
@@ -48,7 +48,7 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/controller.py"
     },
     {
         "Project": "post_review",
@@ -65,7 +65,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py"
     },
     {
         "Project": "post_review",
@@ -82,7 +82,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/model.py"
     },
     {
         "Project": "post_review",
@@ -99,7 +99,7 @@
         "Fan-In": 2,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py"
     },
     {
         "Project": "post_review",
@@ -116,7 +116,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py"
     },
     {
         "Project": "post_review",
@@ -133,7 +133,7 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/view.py"
     },
     {
         "Project": "post_review",
@@ -150,6 +150,6 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/__init__.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Gomoku/post_review/gomoku/__init__.py"
     }
 ]

@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "_validate_answers",
         "Line no": "29",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
         "Description": "A line with 211 chars in _validate_answers exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "_validate_answers",
         "Line no": "37",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
         "Description": "A line with 126 chars in _validate_answers exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "get_daily_word",
         "Line no": "66",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
         "Description": "A line with 201 chars in get_daily_word exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
         "Description": "A line with 522 chars in words exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "15",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
         "Description": "A line with 950 chars in words exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "45",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
         "Description": "A line with 816 chars in words exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "_validate_answers",
         "Line no": "35",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/words.py",
         "Description": "Magic number 5 used in _validate_answers."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "_build_board",
         "Line no": "42",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/gui.py",
         "Description": "A line with 139 chars in _build_board exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long statement",
         "Method": "_build_keyboard",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/gui.py",
         "Description": "A line with 177 chars in _build_keyboard exceeds the maximum length of 120 characters."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Complex method",
         "Method": "run_terminal_game",
         "Line no": "74 - 127",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/terminal_ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/terminal_ui.py",
         "Description": "Method 'run_terminal_game' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/terminal_ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/terminal_ui.py",
         "Description": "A line with 144 chars in terminal_ui exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Magic number",
         "Method": "print_keyboard",
         "Line no": "71",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/terminal_ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/terminal_ui.py",
         "Description": "Magic number 10 used in print_keyboard."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Complex method",
         "Method": "evaluate_guess",
         "Line no": "14 - 43",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "Method 'evaluate_guess' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Complex method",
         "Method": "submit_guess",
         "Line no": "93 - 116",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "Method 'submit_guess' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Long statement",
         "Method": "evaluate_guess",
         "Line no": "15",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "A line with 317 chars in evaluate_guess exceeds the maximum length of 120 characters."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Long statement",
         "Method": "validate_guess",
         "Line no": "77",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "A line with 175 chars in validate_guess exceeds the maximum length of 120 characters."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Long statement",
         "Method": "submit_guess",
         "Line no": "94",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "A line with 184 chars in submit_guess exceeds the maximum length of 120 characters."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "A line with 252 chars in game exceeds the maximum length of 120 characters."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "52",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "Magic number 6 used in __init__."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "56",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "Magic number 5 used in __init__."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "validate_guess",
         "Line no": "85",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/game.py",
         "Description": "Magic number 5 used in validate_guess."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Long statement",
         "Method": "parse_args",
         "Line no": "14",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/main.py",
         "Description": "A line with 121 chars in parse_args exceeds the maximum length of 120 characters."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Wordle/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Wordle/final/main.py",
         "Description": "A line with 309 chars in main exceeds the maximum length of 120 characters."
     }
 ]

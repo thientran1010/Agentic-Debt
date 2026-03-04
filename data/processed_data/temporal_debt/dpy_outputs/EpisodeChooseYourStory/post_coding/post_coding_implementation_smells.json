@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "save_game_dialog",
         "Line no": "17",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/storage.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/storage.py",
         "Description": "A line with 145 chars in save_game_dialog exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "load_game_dialog",
         "Line no": "37",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/storage.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/storage.py",
         "Description": "A line with 143 chars in load_game_dialog exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Complex method",
         "Method": "check_conditions",
         "Line no": "78 - 146",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
         "Description": "Method 'check_conditions' has a cyclomatic complexity of 11, exceeding the max of 6."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Complex method",
         "Method": "apply_effects",
         "Line no": "149 - 179",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
         "Description": "Method 'apply_effects' has a cyclomatic complexity of 8, exceeding the max of 6."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "check_conditions",
         "Line no": "79",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
         "Description": "A line with 453 chars in check_conditions exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "apply_effects",
         "Line no": "150",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
         "Description": "A line with 268 chars in apply_effects exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long statement",
         "Method": "to_dict",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/engine.py",
         "Description": "A line with 190 chars in to_dict exceeds the maximum length of 120 characters."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Empty catch block",
         "Method": "__init__",
         "Line no": "175",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/gui.py",
         "Description": "Empty catch block found in __init__."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long statement",
         "Method": "switch_to_game",
         "Line no": "201",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/gui.py",
         "Description": "A line with 155 chars in switch_to_game exceeds the maximum length of 120 characters."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/EpisodeChooseYourStory/post_coding/gui.py",
         "Description": "A line with 201 chars in gui exceeds the maximum length of 120 characters."
     }
 ]

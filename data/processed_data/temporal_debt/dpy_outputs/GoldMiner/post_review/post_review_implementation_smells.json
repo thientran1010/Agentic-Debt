@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "update",
         "Line no": "81 - 147",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Method 'update' has a cyclomatic complexity of 16, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long parameter list",
         "Method": "__init__",
         "Line no": "20 - 28",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "__init__ has 7 parameters, exceeding the max of 5."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "update",
         "Line no": "82",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "A line with 174 chars in update exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "43",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Magic number 65.0 used in __init__."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "44",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Magic number 65.0 used in __init__."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "48",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Magic number 30.0 used in __init__."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "49",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Magic number 30.0 used in __init__."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "51",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Magic number 360.0 used in __init__."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "52",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Magic number 320.0 used in __init__."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "42",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Magic number 65.0 used in __init__."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Magic number",
         "Method": "update",
         "Line no": "119",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/models.py",
         "Description": "Magic number 10.0 used in update."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Complex method",
         "Method": "spawn_objects",
         "Line no": "32 - 104",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Method 'spawn_objects' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "A line with 129 chars in level exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "13",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 60 used in __init__."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "14",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 25 used in __init__."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "15",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 400 used in __init__."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "16",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 220 used in __init__."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "34",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 40 used in spawn_objects."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "36",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 10 used in spawn_objects."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "39",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 3 used in spawn_objects."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "41",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 2 used in spawn_objects."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "48",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 100 used in spawn_objects."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "34",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 40 used in spawn_objects."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "35",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 0.65 used in spawn_objects."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "40",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 2 used in spawn_objects."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Magic number",
         "Method": "spawn_objects",
         "Line no": "56",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/level.py",
         "Description": "Magic number 6 used in spawn_objects."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Complex method",
         "Method": "update",
         "Line no": "200 - 225",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Method 'update' has a cyclomatic complexity of 9, exceeding the max of 6."
     },
     {
@@ -304,7 +304,7 @@
         "Smell": "Empty catch block",
         "Method": "end_level",
         "Line no": "115",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Empty catch block found in end_level."
     },
     {
@@ -315,7 +315,7 @@
         "Smell": "Empty catch block",
         "Method": "end_level",
         "Line no": "106",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Empty catch block found in end_level."
     },
     {
@@ -326,7 +326,7 @@
         "Smell": "Empty catch block",
         "Method": "on_next",
         "Line no": "141",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Empty catch block found in on_next."
     },
     {
@@ -337,7 +337,7 @@
         "Smell": "Empty catch block",
         "Method": "on_next",
         "Line no": "146",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Empty catch block found in on_next."
     },
     {
@@ -348,7 +348,7 @@
         "Smell": "Empty catch block",
         "Method": "on_retry",
         "Line no": "161",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Empty catch block found in on_retry."
     },
     {
@@ -359,7 +359,7 @@
         "Smell": "Empty catch block",
         "Method": "on_retry",
         "Line no": "166",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Empty catch block found in on_retry."
     },
     {
@@ -370,7 +370,7 @@
         "Smell": "Empty catch block",
         "Method": "on_keydown",
         "Line no": "178",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Empty catch block found in on_keydown."
     },
     {
@@ -381,7 +381,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "A line with 866 chars in main exceeds the maximum length of 120 characters."
     },
     {
@@ -392,7 +392,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "45",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Magic number 10 used in __init__."
     },
     {
@@ -403,7 +403,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "52",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Magic number 60.0 used in __init__."
     },
     {
@@ -414,7 +414,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "44",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Magic number 40 used in __init__."
     },
     {
@@ -425,7 +425,7 @@
         "Smell": "Magic number",
         "Method": "_loop",
         "Line no": "187",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Magic number 0.016 used in _loop."
     },
     {
@@ -436,7 +436,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "267",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Magic number 3 used in draw."
     },
     {
@@ -447,7 +447,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "276",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Magic number 2 used in draw."
     },
     {
@@ -458,7 +458,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "250",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/GoldMiner/post_review/main.py",
         "Description": "Magic number 2 used in draw."
     }
 ]

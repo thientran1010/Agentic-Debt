@@ -7,7 +7,7 @@
         "Smell": "Magic number",
         "Method": "_draw_text",
         "Line no": "11",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 255 used in _draw_text."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Magic number",
         "Method": "_draw_text",
         "Line no": "11",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 255 used in _draw_text."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Magic number",
         "Method": "_draw_text",
         "Line no": "11",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 255 used in _draw_text."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "25",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 12 used in draw."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "30",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 28 used in draw."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "32",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 12 used in draw."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "35",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 24 used in draw."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "37",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 32 used in draw."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "40",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 24 used in draw."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "51",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 10 used in draw."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "53",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 12 used in draw."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "76",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 12 used in draw."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "78",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 22 used in draw."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "80",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 20 used in draw."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "82",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 20 used in draw."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "45",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 22 used in draw."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "47",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 22 used in draw."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "50",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 22 used in draw."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "57",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 22 used in draw."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "74",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 120 used in draw."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "72",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 20 used in draw."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "59",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 2 used in draw."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "68",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py",
         "Description": "Magic number 20 used in draw."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Complex method",
         "Method": "run",
         "Line no": "36 - 52",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
         "Description": "Method 'run' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Complex method",
         "Method": "handle_input",
         "Line no": "57 - 69",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
         "Description": "Method 'handle_input' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Complex method",
         "Method": "_draw_grid",
         "Line no": "151 - 178",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
         "Description": "Method '_draw_grid' has a cyclomatic complexity of 9, exceeding the max of 6."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Magic number",
         "Method": "_draw_game_over_overlay",
         "Line no": "199",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
         "Description": "Magic number 2 used in _draw_game_over_overlay."
     },
     {
@@ -304,7 +304,7 @@
         "Smell": "Magic number",
         "Method": "_draw_game_over_overlay",
         "Line no": "200",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py",
         "Description": "Magic number 2 used in _draw_game_over_overlay."
     },
     {
@@ -315,7 +315,7 @@
         "Smell": "Complex method",
         "Method": "_carve_path",
         "Line no": "53 - 90",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Method '_carve_path' has a cyclomatic complexity of 13, exceeding the max of 6."
     },
     {
@@ -326,7 +326,7 @@
         "Smell": "Complex method",
         "Method": "_add_random_open_areas",
         "Line no": "91 - 102",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Method '_add_random_open_areas' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -337,7 +337,7 @@
         "Smell": "Complex method",
         "Method": "generate_map",
         "Line no": "103 - 168",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Method 'generate_map' has a cyclomatic complexity of 15, exceeding the max of 6."
     },
     {
@@ -348,7 +348,7 @@
         "Smell": "Long statement",
         "Method": "generate_map",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "A line with 153 chars in generate_map exceeds the maximum length of 120 characters."
     },
     {
@@ -359,7 +359,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "A line with 319 chars in mapgen exceeds the maximum length of 120 characters."
     },
     {
@@ -370,7 +370,7 @@
         "Smell": "Magic number",
         "Method": "_carve_path",
         "Line no": "59",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 4 used in _carve_path."
     },
     {
@@ -381,7 +381,7 @@
         "Smell": "Magic number",
         "Method": "_carve_path",
         "Line no": "72",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 0.25 used in _carve_path."
     },
     {
@@ -392,7 +392,7 @@
         "Smell": "Magic number",
         "Method": "_carve_path",
         "Line no": "73",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 0.5 used in _carve_path."
     },
     {
@@ -403,7 +403,7 @@
         "Smell": "Magic number",
         "Method": "_carve_path",
         "Line no": "73",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 2 used in _carve_path."
     },
     {
@@ -414,7 +414,7 @@
         "Smell": "Magic number",
         "Method": "_carve_path",
         "Line no": "74",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 2 used in _carve_path."
     },
     {
@@ -425,7 +425,7 @@
         "Smell": "Magic number",
         "Method": "_carve_path",
         "Line no": "78",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 2 used in _carve_path."
     },
     {
@@ -436,7 +436,7 @@
         "Smell": "Magic number",
         "Method": "_add_random_open_areas",
         "Line no": "91",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 0.35 used in _add_random_open_areas."
     },
     {
@@ -447,7 +447,7 @@
         "Smell": "Magic number",
         "Method": "_add_random_open_areas",
         "Line no": "91",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 3000 used in _add_random_open_areas."
     },
     {
@@ -458,7 +458,7 @@
         "Smell": "Magic number",
         "Method": "_add_random_open_areas",
         "Line no": "101",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 0.2 used in _add_random_open_areas."
     },
     {
@@ -469,7 +469,7 @@
         "Smell": "Magic number",
         "Method": "_add_random_open_areas",
         "Line no": "100",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 2 used in _add_random_open_areas."
     },
     {
@@ -480,7 +480,7 @@
         "Smell": "Magic number",
         "Method": "_add_random_open_areas",
         "Line no": "100",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 2 used in _add_random_open_areas."
     },
     {
@@ -491,7 +491,7 @@
         "Smell": "Magic number",
         "Method": "generate_map",
         "Line no": "117",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 2 used in generate_map."
     },
     {
@@ -502,7 +502,7 @@
         "Smell": "Magic number",
         "Method": "generate_map",
         "Line no": "117",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 2 used in generate_map."
     },
     {
@@ -513,7 +513,7 @@
         "Smell": "Magic number",
         "Method": "generate_map",
         "Line no": "124",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py",
         "Description": "Magic number 5 used in generate_map."
     }
 ]

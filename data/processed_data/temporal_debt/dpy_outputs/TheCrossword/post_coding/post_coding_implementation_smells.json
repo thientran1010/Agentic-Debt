@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "get_puzzle",
         "Line no": "16",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/data.py",
         "Description": "A line with 142 chars in get_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "get_puzzle",
         "Line no": "44",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/data.py",
         "Description": "A line with 170 chars in get_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/data.py",
         "Description": "A line with 461 chars in data exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Complex method",
         "Method": "__init__",
         "Line no": "31 - 76",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
         "Description": "Method '__init__' has a cyclomatic complexity of 8, exceeding the max of 6."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Complex method",
         "Method": "_compute_entries",
         "Line no": "78 - 130",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
         "Description": "Method '_compute_entries' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "place_answer",
         "Line no": "163",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
         "Description": "A line with 345 chars in place_answer exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long statement",
         "Method": "get_cell",
         "Line no": "215",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
         "Description": "A line with 134 chars in get_cell exceeds the maximum length of 120 characters."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_model.py",
         "Description": "A line with 395 chars in crossword_model exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Empty catch block",
         "Method": "set_number_range",
         "Line no": "127",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_view.py",
         "Description": "Empty catch block found in set_number_range."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long method",
         "Method": "__init__",
         "Line no": "23 - 118",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_view.py",
         "Description": "Method '__init__' is too long (67 lines)."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "build_grid",
         "Line no": "143",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_view.py",
         "Description": "A line with 134 chars in build_grid exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_view.py",
         "Description": "A line with 372 chars in crossword_view exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_controller.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/crossword_controller.py",
         "Description": "A line with 213 chars in crossword_controller exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Long statement",
         "Method": "main",
         "Line no": "22",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/main.py",
         "Description": "A line with 210 chars in main exceeds the maximum length of 120 characters."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/post_coding/main.py",
         "Description": "A line with 172 chars in main exceeds the maximum length of 120 characters."
     }
 ]

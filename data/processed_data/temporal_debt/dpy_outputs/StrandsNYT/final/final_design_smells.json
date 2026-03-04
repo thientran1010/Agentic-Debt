@@ -6,7 +6,7 @@
         "Smell": "Feature envy",
         "Class": "puzzle",
         "Line no": "72",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsNYT/final/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsNYT/final/puzzle.py",
         "Description": "Function 'default_puzzle' in module 'puzzle' seems to access code elements that are outside of the module more than its internal to module members. It seems the method is more suitable in `puzzle`."
     }
 ]

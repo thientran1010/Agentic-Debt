@@ -6,7 +6,7 @@
         "Smell": "Deficient encapsulation",
         "Class": "puzzle",
         "Line no": "277",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/StrandsGame/final/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/StrandsGame/final/puzzle.py",
         "Description": "Module 'puzzle' accesses non-public code elements _split_into_segments from _segment_from_any"
     }
 ]

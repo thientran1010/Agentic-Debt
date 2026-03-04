@@ -14,7 +14,7 @@
         "Fan-In": 2,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py"
     },
     {
         "Project": "post_coding",
@@ -31,7 +31,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py"
     },
     {
         "Project": "post_coding",
@@ -48,7 +48,7 @@
         "Fan-In": 1,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/models.py"
     },
     {
         "Project": "post_coding",
@@ -65,7 +65,7 @@
         "Fan-In": 1,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py"
     },
     {
         "Project": "post_coding",
@@ -82,7 +82,7 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/storage.py"
     },
     {
         "Project": "post_coding",
@@ -99,7 +99,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py"
     },
     {
         "Project": "post_coding",
@@ -116,7 +116,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/ui.py"
     },
     {
         "Project": "post_coding",
@@ -133,7 +133,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/utils.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/utils.py"
     },
     {
         "Project": "post_coding",
@@ -150,6 +150,6 @@
         "Fan-In": 0,
         "Fan-Out": 2,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/BudgetTracker/post_coding/main.py"
     }
 ]

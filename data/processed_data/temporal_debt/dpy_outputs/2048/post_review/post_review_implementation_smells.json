@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "move",
         "Line no": "51 - 101",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "Method 'move' has a cyclomatic complexity of 14, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Complex method",
         "Method": "can_move",
         "Line no": "131 - 150",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "Method 'can_move' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "add_random_tile",
         "Line no": "37",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "A line with 175 chars in add_random_tile exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "move",
         "Line no": "52",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "A line with 133 chars in move exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "move_line",
         "Line no": "104",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "A line with 195 chars in move_line exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "12",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "Magic number 4 used in __init__."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "add_random_tile",
         "Line no": "45",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "Magic number 4 used in add_random_tile."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "add_random_tile",
         "Line no": "45",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "Magic number 2 used in add_random_tile."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "add_random_tile",
         "Line no": "45",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "Magic number 0.1 used in add_random_tile."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "move_line",
         "Line no": "120",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/game.py",
         "Description": "Magic number 2 used in move_line."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Empty catch block",
         "Method": "get_game_from_session",
         "Line no": "20",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
         "Description": "Empty catch block found in get_game_from_session."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "init_game",
         "Line no": "51",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
         "Description": "A line with 163 chars in init_game exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "state",
         "Line no": "66",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
         "Description": "A line with 163 chars in state exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Long statement",
         "Method": "move",
         "Line no": "90",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
         "Description": "A line with 164 chars in move exceeds the maximum length of 120 characters."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Long statement",
         "Method": "move",
         "Line no": "108",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
         "Description": "A line with 201 chars in move exceeds the maximum length of 120 characters."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "move",
         "Line no": "83",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/post_review/main.py",
         "Description": "Magic number 400 used in move."
     }
 ]

@@ -14,7 +14,7 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/main.py"
     },
     {
         "Project": "post_coding",
@@ -31,7 +31,7 @@
         "Fan-In": 1,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/gui.py"
     },
     {
         "Project": "post_coding",
@@ -48,7 +48,7 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/gui.py"
     },
     {
         "Project": "post_coding",
@@ -65,7 +65,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/__init__.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/__init__.py"
     },
     {
         "Project": "post_coding",
@@ -82,7 +82,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/game.py"
     },
     {
         "Project": "post_coding",
@@ -99,6 +99,6 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ReversiOthello/post_coding/reversi/game.py"
     }
 ]

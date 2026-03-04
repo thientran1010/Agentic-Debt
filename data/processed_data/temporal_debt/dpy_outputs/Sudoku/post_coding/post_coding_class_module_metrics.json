@@ -14,7 +14,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Sudoku/post_coding/app.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Sudoku/post_coding/app.py"
     },
     {
         "Project": "post_coding",
@@ -31,7 +31,7 @@
         "Fan-In": 1,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Sudoku/post_coding/sudoku.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Sudoku/post_coding/sudoku.py"
     },
     {
         "Project": "post_coding",
@@ -48,6 +48,6 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Sudoku/post_coding/sudoku.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Sudoku/post_coding/sudoku.py"
     }
 ]

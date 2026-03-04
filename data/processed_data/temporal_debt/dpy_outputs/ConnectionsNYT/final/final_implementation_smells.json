@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "generate_daily_puzzle",
         "Line no": "31 - 95",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
         "Description": "Method 'generate_daily_puzzle' has a cyclomatic complexity of 15, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "generate_daily_puzzle",
         "Line no": "32",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
         "Description": "A line with 255 chars in generate_daily_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "generate_daily_puzzle",
         "Line no": "57",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
         "Description": "A line with 151 chars in generate_daily_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "generate_daily_puzzle",
         "Line no": "81",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
         "Description": "A line with 136 chars in generate_daily_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
         "Description": "A line with 221 chars in puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "generate_daily_puzzle",
         "Line no": "54",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py",
         "Description": "Magic number 1000 used in generate_daily_puzzle."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long method",
         "Method": "get_category_bank",
         "Line no": "13 - 82",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py",
         "Description": "Method 'get_category_bank' is too long (68 lines)."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "get_category_bank",
         "Line no": "15",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py",
         "Description": "A line with 4617 chars in get_category_bank exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py",
         "Description": "A line with 266 chars in category_bank exceeds the maximum length of 120 characters."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/main.py",
         "Description": "A line with 807 chars in main exceeds the maximum length of 120 characters."
     }
 ]

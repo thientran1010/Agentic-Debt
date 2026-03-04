@@ -14,7 +14,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py"
     },
     {
         "Project": "final",
@@ -31,7 +31,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py"
     },
     {
         "Project": "final",
@@ -48,7 +48,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/puzzle.py"
     },
     {
         "Project": "final",
@@ -65,7 +65,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py"
     },
     {
         "Project": "final",
@@ -82,7 +82,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/category_bank.py"
     },
     {
         "Project": "final",
@@ -99,7 +99,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/utils.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/utils.py"
     },
     {
         "Project": "final",
@@ -116,6 +116,6 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/ConnectionsNYT/final/main.py"
     }
 ]

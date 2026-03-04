@@ -6,7 +6,7 @@
         "Smell": "Feature envy",
         "Class": "main",
         "Line no": "13",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/SnakeGame/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/SnakeGame/post_review/main.py",
         "Description": "Function 'choose_difficulty' in module 'main' seems to access code elements that are outside of the module more than its internal to module members. It seems the method is more suitable in `ui`."
     }
 ]

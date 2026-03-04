@@ -1,0 +1,33 @@
+2026-03-04 01:56:18 - INFO - [logging.py:15] - invoking license validation...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - invoking license validation...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - License type: LicenseType.Trial
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Parsing ...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Parsing package: post_review
+2026-03-04 01:56:18 - ERROR - [logging.py:9] - Error processing file /home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/post_review/game.py: unexpected indent (<unknown>, line 186)
+Traceback (most recent call last):
+  File "/tmp/onefile_281891_1772607377_265379/src/sourcemodel/sm_module.py", line 123, in parse
+  File "/tmp/onefile_281891_1772607377_265379/ast.py", line 52, in parse
+  File "<unknown>", line 186
+    elif tile == C.TILE_DOOR:
+IndentationError: unexpected indent
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Second pass of parsing for package: post_review
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Calculating metrics ...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Detecting code smells ...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Detecting design smells ...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Detecting architecture smells ...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Detecting machine learning smells ...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Collect dependencies ...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Analysis complete.
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Preparing analysis summary ...
+2026-03-04 01:56:18 - INFO - [logging.py:15] - JSON data successfully exported to /home/kira/agent_debt/data/processed_data/temporal_debt/dpy_outputs/Tiny Rouge/post_review/post_review_function_metrics.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Successfully exported JSON data to post_review_function_metrics.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - JSON data successfully exported to /home/kira/agent_debt/data/processed_data/temporal_debt/dpy_outputs/Tiny Rouge/post_review/post_review_class_module_metrics.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Successfully exported JSON data to post_review_class_module_metrics.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - JSON data successfully exported to /home/kira/agent_debt/data/processed_data/temporal_debt/dpy_outputs/Tiny Rouge/post_review/post_review_implementation_smells.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Successfully exported JSON data to post_review_implementation_smells.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - JSON data successfully exported to /home/kira/agent_debt/data/processed_data/temporal_debt/dpy_outputs/Tiny Rouge/post_review/post_review_design_smells.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Successfully exported JSON data to post_review_design_smells.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - JSON data successfully exported to /home/kira/agent_debt/data/processed_data/temporal_debt/dpy_outputs/Tiny Rouge/post_review/post_review_arch_smells.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Successfully exported JSON data to post_review_arch_smells.json
+2026-03-04 01:56:18 - INFO - [logging.py:15] - No ML smells found.
+2026-03-04 01:56:18 - INFO - [logging.py:15] - Done.

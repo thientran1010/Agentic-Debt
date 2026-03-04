@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "48",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/gui.py",
         "Description": "A line with 206 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "_new_game_init",
         "Line no": "161",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/gui.py",
         "Description": "A line with 219 chars in _new_game_init exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "_new_game_init",
         "Line no": "168",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/gui.py",
         "Description": "A line with 127 chars in _new_game_init exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/gui.py",
         "Description": "A line with 517 chars in gui exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Complex method",
         "Method": "__init__",
         "Line no": "25 - 54",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
         "Description": "Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Complex method",
         "Method": "evaluate_guess",
         "Line no": "90 - 128",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
         "Description": "Method 'evaluate_guess' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long statement",
         "Method": "get_history",
         "Line no": "84",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
         "Description": "A line with 146 chars in get_history exceeds the maximum length of 120 characters."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "evaluate_guess",
         "Line no": "91",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
         "Description": "A line with 248 chars in evaluate_guess exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
         "Description": "A line with 536 chars in game_logic exceeds the maximum length of 120 characters."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "27",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
         "Description": "Magic number 4 used in __init__."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "29",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/game_logic.py",
         "Description": "Magic number 10 used in __init__."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/final/main.py",
         "Description": "A line with 163 chars in main exceeds the maximum length of 120 characters."
     }
 ]

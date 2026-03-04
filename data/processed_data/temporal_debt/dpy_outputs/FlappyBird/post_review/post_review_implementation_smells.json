@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "44",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "A line with 164 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "102",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "A line with 299 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "check_and_flag_passed",
         "Line no": "152",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "A line with 165 chars in check_and_flag_passed exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "42",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 8 used in __init__."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "43",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 6 used in __init__."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "36",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "37",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "45",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 6 used in __init__."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "46",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 6 used in __init__."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "46",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "47",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 6 used in __init__."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "47",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Magic number",
         "Method": "update",
         "Line no": "70",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 3.0 used in update."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "update",
         "Line no": "74",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/sprites.py",
         "Description": "Magic number 2 used in update."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Complex method",
         "Method": "handle_events",
         "Line no": "111 - 146",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "Method 'handle_events' has a cyclomatic complexity of 15, exceeding the max of 6."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Complex method",
         "Method": "update",
         "Line no": "148 - 206",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "Method 'update' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Long statement",
         "Method": "update_difficulty",
         "Line no": "87",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "A line with 124 chars in update_difficulty exceeds the maximum length of 120 characters."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Long statement",
         "Method": "update",
         "Line no": "149",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "A line with 231 chars in update exceeds the maximum length of 120 characters."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Long statement",
         "Method": "draw",
         "Line no": "219",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "A line with 138 chars in draw exceeds the maximum length of 120 characters."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "A line with 158 chars in game exceeds the maximum length of 120 characters."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "spawn_pipe_pair",
         "Line no": "100",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "Magic number 50 used in spawn_pipe_pair."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Magic number",
         "Method": "spawn_pipe_pair",
         "Line no": "101",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "Magic number 50 used in spawn_pipe_pair."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Magic number",
         "Method": "spawn_pipe_pair",
         "Line no": "107",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "Magic number 20 used in spawn_pipe_pair."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Magic number",
         "Method": "update",
         "Line no": "205",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/game.py",
         "Description": "Magic number 2 used in update."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Empty catch block",
         "Method": "main",
         "Line no": "16",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/FlappyBird/post_review/main.py",
         "Description": "Empty catch block found in main."
     }
 ]

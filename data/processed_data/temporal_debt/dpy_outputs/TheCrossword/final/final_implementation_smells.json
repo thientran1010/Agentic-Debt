@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "get_puzzle",
         "Line no": "19",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "A line with 142 chars in get_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "get_puzzle",
         "Line no": "60",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "A line with 266 chars in get_puzzle exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "A line with 892 chars in data exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Magic number",
         "Method": "get_puzzle",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "Magic number 6 used in get_puzzle."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "get_puzzle",
         "Line no": "34",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "Magic number 7 used in get_puzzle."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "get_puzzle",
         "Line no": "35",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "Magic number 8 used in get_puzzle."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "get_puzzle",
         "Line no": "36",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "Magic number 9 used in get_puzzle."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "get_puzzle",
         "Line no": "40",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "Magic number 2 used in get_puzzle."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "get_puzzle",
         "Line no": "41",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "Magic number 3 used in get_puzzle."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "get_puzzle",
         "Line no": "42",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "Magic number 4 used in get_puzzle."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Magic number",
         "Method": "get_puzzle",
         "Line no": "43",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/data.py",
         "Description": "Magic number 5 used in get_puzzle."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Complex method",
         "Method": "__init__",
         "Line no": "27 - 75",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
         "Description": "Method '__init__' has a cyclomatic complexity of 12, exceeding the max of 6."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Complex method",
         "Method": "_compute_entries",
         "Line no": "76 - 117",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
         "Description": "Method '_compute_entries' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Long parameter list",
         "Method": "__init__",
         "Line no": "27 - 75",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
         "Description": "__init__ has 6 parameters, exceeding the max of 5."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Long statement",
         "Method": "place_answer",
         "Line no": "160",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
         "Description": "A line with 345 chars in place_answer exceeds the maximum length of 120 characters."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Long statement",
         "Method": "get_cell",
         "Line no": "207",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
         "Description": "A line with 134 chars in get_cell exceeds the maximum length of 120 characters."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_model.py",
         "Description": "A line with 679 chars in crossword_model exceeds the maximum length of 120 characters."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Empty catch block",
         "Method": "set_number_range",
         "Line no": "103",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_view.py",
         "Description": "Empty catch block found in set_number_range."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Long method",
         "Method": "__init__",
         "Line no": "16 - 96",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_view.py",
         "Description": "Method '__init__' is too long (68 lines)."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Long statement",
         "Method": "build_grid",
         "Line no": "117",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_view.py",
         "Description": "A line with 134 chars in build_grid exceeds the maximum length of 120 characters."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_view.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_view.py",
         "Description": "A line with 366 chars in crossword_view exceeds the maximum length of 120 characters."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_controller.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/crossword_controller.py",
         "Description": "A line with 474 chars in crossword_controller exceeds the maximum length of 120 characters."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Long statement",
         "Method": "main",
         "Line no": "15",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/main.py",
         "Description": "A line with 344 chars in main exceeds the maximum length of 120 characters."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TheCrossword/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TheCrossword/final/main.py",
         "Description": "A line with 168 chars in main exceeds the maximum length of 120 characters."
     }
 ]

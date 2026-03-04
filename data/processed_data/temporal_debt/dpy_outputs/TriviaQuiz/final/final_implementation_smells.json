@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "question_from_dict",
         "Line no": "180 - 218",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
         "Description": "Method 'question_from_dict' has a cyclomatic complexity of 11, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Complex method",
         "Method": "_mcq_correct_indices",
         "Line no": "105 - 138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
         "Description": "Method '_mcq_correct_indices' has a cyclomatic complexity of 11, exceeding the max of 6."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Empty catch block",
         "Method": "is_correct",
         "Line no": "51",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
         "Description": "Empty catch block found in is_correct."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Empty catch block",
         "Method": "get_user_answer_text",
         "Line no": "85",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
         "Description": "Empty catch block found in get_user_answer_text."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "question_from_dict",
         "Line no": "181",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
         "Description": "A line with 447 chars in question_from_dict exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "mcq_correct_indices",
         "Line no": "94",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
         "Description": "A line with 183 chars in mcq_correct_indices exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long statement",
         "Method": "_mcq_correct_indices",
         "Line no": "106",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
         "Description": "A line with 156 chars in _mcq_correct_indices exceeds the maximum length of 120 characters."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "_short_acceptable_answers",
         "Line no": "140",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/models.py",
         "Description": "A line with 179 chars in _short_acceptable_answers exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long method",
         "Method": "get_builtin_banks",
         "Line no": "7 - 98",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/question_bank.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/question_bank.py",
         "Description": "Method 'get_builtin_banks' is too long (91 lines)."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "get_builtin_banks",
         "Line no": "12",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/question_bank.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/question_bank.py",
         "Description": "A line with 1187 chars in get_builtin_banks exceeds the maximum length of 120 characters."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "get_builtin_banks",
         "Line no": "61",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/question_bank.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/question_bank.py",
         "Description": "A line with 1028 chars in get_builtin_banks exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "load_bank_from_json",
         "Line no": "100",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/question_bank.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/question_bank.py",
         "Description": "A line with 401 chars in load_bank_from_json exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "on_load_json",
         "Line no": "138",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
         "Description": "A line with 128 chars in on_load_json exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Long statement",
         "Method": "on_start",
         "Line no": "186",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
         "Description": "A line with 134 chars in on_start exceeds the maximum length of 120 characters."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Long statement",
         "Method": "render_mcq",
         "Line no": "248",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
         "Description": "A line with 135 chars in render_mcq exceeds the maximum length of 120 characters."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Long statement",
         "Method": "render_results",
         "Line no": "377",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
         "Description": "A line with 124 chars in render_results exceeds the maximum length of 120 characters."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
         "Description": "A line with 160 chars in main exceeds the maximum length of 120 characters."
     }
 ]

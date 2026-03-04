@@ -7,7 +7,7 @@
         "Smell": "Long statement",
         "Method": "read_text_file",
         "Line no": "11",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/file_utils.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/file_utils.py",
         "Description": "A line with 133 chars in read_text_file exceeds the maximum length of 120 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "find_palindromic_words",
         "Line no": "106",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "A line with 149 chars in find_palindromic_words exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "find_palindromic_lines",
         "Line no": "129",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "A line with 143 chars in find_palindromic_lines exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "find_palindromic_sentences",
         "Line no": "161",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "A line with 156 chars in find_palindromic_sentences exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "detect_palindromes",
         "Line no": "178",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "A line with 151 chars in detect_palindromes exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "detect_palindromes",
         "Line no": "187",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "A line with 155 chars in detect_palindromes exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long statement",
         "Method": "detect_palindromes",
         "Line no": "196",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "A line with 151 chars in detect_palindromes exceeds the maximum length of 120 characters."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "A line with 363 chars in palindrome_detector exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "find_palindromic_words",
         "Line no": "94",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "Magic number 3 used in find_palindromic_words."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "find_palindromic_lines",
         "Line no": "121",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "Magic number 3 used in find_palindromic_lines."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Magic number",
         "Method": "find_palindromic_sentences",
         "Line no": "144",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "Magic number 3 used in find_palindromic_sentences."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Magic number",
         "Method": "pos_to_line_col",
         "Line no": "62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/palindrome_detector.py",
         "Description": "Magic number 2 used in pos_to_line_col."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "_build_layout",
         "Line no": "77",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
         "Description": "A line with 128 chars in _build_layout exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Long statement",
         "Method": "on_about",
         "Line no": "153",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
         "Description": "A line with 201 chars in on_about exceeds the maximum length of 120 characters."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Long statement",
         "Method": "_collect_options",
         "Line no": "207",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
         "Description": "A line with 243 chars in _collect_options exceeds the maximum length of 120 characters."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Long statement",
         "Method": "on_export",
         "Line no": "269",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
         "Description": "A line with 149 chars in on_export exceeds the maximum length of 120 characters."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/DetectPalindromes/post_coding/gui_app.py",
         "Description": "A line with 219 chars in gui_app exceeds the maximum length of 120 characters."
     }
 ]

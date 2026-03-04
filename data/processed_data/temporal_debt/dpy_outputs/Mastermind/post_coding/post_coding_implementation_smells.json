@@ -7,7 +7,7 @@
         "Smell": "Long lambda function",
         "Method": "build_board",
         "Line no": "163",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "A Lambda with 83 chars in build_board exceeds the maximum length of 80 characters."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "54",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "A line with 162 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "build_palette",
         "Line no": "137",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "A line with 188 chars in build_palette exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "build_board",
         "Line no": "161",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "A line with 124 chars in build_board exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "A line with 573 chars in gui exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "_draw_disc",
         "Line no": "203",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 14 used in _draw_disc."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "_draw_disc",
         "Line no": "208",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 2 used in _draw_disc."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "_draw_disc",
         "Line no": "209",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 2 used in _draw_disc."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "_draw_disc",
         "Line no": "210",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 2 used in _draw_disc."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "_draw_disc",
         "Line no": "211",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 2 used in _draw_disc."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Magic number",
         "Method": "_draw_disc",
         "Line no": "208",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 2 used in _draw_disc."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Magic number",
         "Method": "_draw_disc",
         "Line no": "209",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 2 used in _draw_disc."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "308",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 6 used in draw_pegs."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "307",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 12 used in draw_pegs."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "307",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 12 used in draw_pegs."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "307",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 36 used in draw_pegs."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "307",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 12 used in draw_pegs."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "307",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 12 used in draw_pegs."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "307",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 36 used in draw_pegs."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "307",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 36 used in draw_pegs."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "draw_pegs",
         "Line no": "307",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/gui.py",
         "Description": "Magic number 36 used in draw_pegs."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Complex method",
         "Method": "__init__",
         "Line no": "32 - 63",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
         "Description": "Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Complex method",
         "Method": "evaluate_guess",
         "Line no": "107 - 152",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
         "Description": "Method 'evaluate_guess' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Long statement",
         "Method": "get_history",
         "Line no": "99",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
         "Description": "A line with 146 chars in get_history exceeds the maximum length of 120 characters."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Long statement",
         "Method": "evaluate_guess",
         "Line no": "108",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
         "Description": "A line with 248 chars in evaluate_guess exceeds the maximum length of 120 characters."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
         "Description": "A line with 525 chars in game_logic exceeds the maximum length of 120 characters."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "34",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
         "Description": "Magic number 4 used in __init__."
     },
     {
@@ -304,7 +304,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "36",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/game_logic.py",
         "Description": "Magic number 10 used in __init__."
     },
     {
@@ -315,7 +315,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Mastermind/post_coding/main.py",
         "Description": "A line with 165 chars in main exceeds the maximum length of 120 characters."
     }
 ]

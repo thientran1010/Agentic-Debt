@@ -7,7 +7,7 @@
         "Smell": "Long method",
         "Method": "_build_cards",
         "Line no": "29 - 103",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "Method '_build_cards' is too long (75 lines)."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "_build_cards",
         "Line no": "93",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "A line with 550 chars in _build_cards exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "A line with 646 chars in chance_cards exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Magic number",
         "Method": "_build_cards",
         "Line no": "35",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "Magic number 100 used in _build_cards."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "_build_cards",
         "Line no": "42",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "Magic number 50 used in _build_cards."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "_build_cards",
         "Line no": "49",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "Magic number 100 used in _build_cards."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "_build_cards",
         "Line no": "64",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "Magic number 25 used in _build_cards."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "_build_cards",
         "Line no": "77",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "Magic number 50 used in _build_cards."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "_build_cards",
         "Line no": "54",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/chance_cards.py",
         "Description": "Magic number 3 used in _build_cards."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Complex method",
         "Method": "update_board",
         "Line no": "76 - 96",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "Method 'update_board' has a cyclomatic complexity of 9, exceeding the max of 6."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Complex method",
         "Method": "update_buttons",
         "Line no": "253 - 274",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "Method 'update_buttons' has a cyclomatic complexity of 9, exceeding the max of 6."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "refresh",
         "Line no": "114",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "A line with 134 chars in refresh exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "refresh",
         "Line no": "119",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "A line with 124 chars in refresh exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Long statement",
         "Method": "prompt_purchase_if_needed",
         "Line no": "160",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "A line with 130 chars in prompt_purchase_if_needed exceeds the maximum length of 120 characters."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Long statement",
         "Method": "update_buttons",
         "Line no": "270",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "A line with 131 chars in update_buttons exceeds the maximum length of 120 characters."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Long statement",
         "Method": "update_buttons",
         "Line no": "271",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "A line with 142 chars in update_buttons exceeds the maximum length of 120 characters."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "A line with 473 chars in gui exceeds the maximum length of 120 characters."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "Magic number 2 used in __init__."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "_index_to_grid",
         "Line no": "59",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "Magic number 5 used in _index_to_grid."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "_index_to_grid",
         "Line no": "60",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "Magic number 5 used in _index_to_grid."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "refresh",
         "Line no": "126",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "Magic number 200 used in refresh."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Magic number",
         "Method": "on_pay_jail",
         "Line no": "214",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/gui.py",
         "Description": "Magic number 50 used in on_pay_jail."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Long identifier",
         "Method": "return_get_out_of_jail_card_to_deck",
         "Line no": "363",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/game.py",
         "Description": "Identifier'return_get_out_of_jail_card_to_deck' exceeds the maximum length of 30 characters."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/game.py",
         "Description": "A line with 785 chars in game exceeds the maximum length of 120 characters."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "114",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/game.py",
         "Description": "Magic number 5 used in __init__."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "174",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/game.py",
         "Description": "Magic number 12 used in __init__."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/final/main.py",
         "Description": "A line with 163 chars in main exceeds the maximum length of 120 characters."
     }
 ]

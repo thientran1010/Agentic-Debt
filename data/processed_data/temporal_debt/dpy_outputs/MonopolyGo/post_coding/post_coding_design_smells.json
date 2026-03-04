@@ -6,7 +6,7 @@
         "Smell": "Wide hierarchy",
         "Class": "Tile",
         "Line no": "0",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_coding/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_coding/game.py",
         "Description": "Class 'Tile' has a wide hierarchy with 7 direct subclasses."
     }
 ]

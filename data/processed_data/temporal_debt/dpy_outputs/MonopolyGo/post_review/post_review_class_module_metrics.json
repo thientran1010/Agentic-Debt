@@ -14,7 +14,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/chance_cards.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/chance_cards.py"
     },
     {
         "Project": "post_review",
@@ -31,7 +31,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/chance_cards.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/chance_cards.py"
     },
     {
         "Project": "post_review",
@@ -48,7 +48,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/chance_cards.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/chance_cards.py"
     },
     {
         "Project": "post_review",
@@ -65,7 +65,7 @@
         "Fan-In": 2,
         "Fan-Out": 2,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
     },
     {
         "Project": "post_review",
@@ -82,7 +82,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
     },
     {
         "Project": "post_review",
@@ -99,7 +99,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
     },
     {
         "Project": "post_review",
@@ -116,7 +116,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
     },
     {
         "Project": "post_review",
@@ -133,7 +133,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
     },
     {
         "Project": "post_review",
@@ -150,7 +150,7 @@
         "Fan-In": 0,
         "Fan-Out": 5,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/gui.py"
     },
     {
         "Project": "post_review",
@@ -167,7 +167,7 @@
         "Fan-In": 2,
         "Fan-Out": 2,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -184,7 +184,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -201,7 +201,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -218,7 +218,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -235,7 +235,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 1,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -252,7 +252,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 1,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -269,7 +269,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 1,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -286,7 +286,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 1,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -303,7 +303,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 1,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -320,7 +320,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 1,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -337,7 +337,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 1,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -354,7 +354,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -371,7 +371,7 @@
         "Fan-In": 1,
         "Fan-Out": 3,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/game.py"
     },
     {
         "Project": "post_review",
@@ -388,6 +388,6 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/MonopolyGo/post_review/main.py"
     }
 ]

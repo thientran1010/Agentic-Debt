@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "setup_initial",
         "Line no": "31 - 41",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Method 'setup_initial' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Complex method",
         "Method": "draw",
         "Line no": "71 - 110",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Method 'draw' has a cyclomatic complexity of 12, exceeding the max of 6."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Magic number",
         "Method": "setup_initial",
         "Line no": "35",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Magic number 2 used in setup_initial."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Magic number",
         "Method": "setup_initial",
         "Line no": "40",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Magic number 2 used in setup_initial."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "80",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Magic number 2 used in draw."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "86",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Magic number 2 used in draw."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "86",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Magic number 2 used in draw."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "76",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Magic number 2 used in draw."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "100",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Magic number 2 used in draw."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "100",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/board.py",
         "Description": "Magic number 2 used in draw."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Complex conditional",
         "Method": "parse",
         "Line no": "32",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
         "Description": "A conditional in parse has 5 conditions, more than the recommended maximum 3 conditions."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Complex method",
         "Method": "parse",
         "Line no": "18 - 44",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
         "Description": "Method 'parse' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
         "Description": "A line with 186 chars in move_parser exceeds the maximum length of 120 characters."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "parse",
         "Line no": "41",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
         "Description": "Magic number 2 used in parse."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "parse",
         "Line no": "38",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
         "Description": "Magic number 8 used in parse."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "parse",
         "Line no": "32",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/move_parser.py",
         "Description": "Magic number 2 used in parse."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Complex method",
         "Method": "run",
         "Line no": "44 - 63",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
         "Description": "Method 'run' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Complex method",
         "Method": "handle_move_input",
         "Line no": "76 - 95",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
         "Description": "Method 'handle_move_input' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
         "Description": "A line with 153 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Long statement",
         "Method": "handle_move_input",
         "Line no": "86",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
         "Description": "A line with 131 chars in handle_move_input exceeds the maximum length of 120 characters."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/app.py",
         "Description": "A line with 136 chars in app exceeds the maximum length of 120 characters."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Complex method",
         "Method": "_capture_sequences_from",
         "Line no": "59 - 116",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Method '_capture_sequences_from' has a cyclomatic complexity of 16, exceeding the max of 6."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Complex method",
         "Method": "_post_move_kinging",
         "Line no": "181 - 189",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Method '_post_move_kinging' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "A line with 153 chars in rules exceeds the maximum length of 120 characters."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Magic number",
         "Method": "_capture_sequences_from",
         "Line no": "115",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Magic number 3 used in _capture_sequences_from."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Magic number",
         "Method": "_capture_sequences_from",
         "Line no": "79",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Magic number 2 used in _capture_sequences_from."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Magic number",
         "Method": "_capture_sequences_from",
         "Line no": "79",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Magic number 2 used in _capture_sequences_from."
     },
     {
@@ -304,7 +304,7 @@
         "Smell": "Magic number",
         "Method": "try_move",
         "Line no": "120",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Magic number 2 used in try_move."
     },
     {
@@ -315,7 +315,7 @@
         "Smell": "Magic number",
         "Method": "try_move",
         "Line no": "142",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Magic number 2 used in try_move."
     },
     {
@@ -326,7 +326,7 @@
         "Smell": "Magic number",
         "Method": "_apply_capture_sequence",
         "Line no": "171",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Magic number 2 used in _apply_capture_sequence."
     },
     {
@@ -337,7 +337,7 @@
         "Smell": "Magic number",
         "Method": "_apply_capture_sequence",
         "Line no": "172",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/rules.py",
         "Description": "Magic number 2 used in _apply_capture_sequence."
     },
     {
@@ -348,7 +348,7 @@
         "Smell": "Complex method",
         "Method": "handle_event",
         "Line no": "24 - 41",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Method 'handle_event' has a cyclomatic complexity of 8, exceeding the max of 6."
     },
     {
@@ -359,7 +359,7 @@
         "Smell": "Long parameter list",
         "Method": "__init__",
         "Line no": "14 - 22",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "__init__ has 6 parameters, exceeding the max of 5."
     },
     {
@@ -370,7 +370,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "A line with 129 chars in ui exceeds the maximum length of 120 characters."
     },
     {
@@ -381,7 +381,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "22",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Magic number 500 used in __init__."
     },
     {
@@ -392,7 +392,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "50",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Magic number 150 used in draw."
     },
     {
@@ -403,7 +403,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "50",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Magic number 150 used in draw."
     },
     {
@@ -414,7 +414,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "50",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Magic number 150 used in draw."
     },
     {
@@ -425,7 +425,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "56",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Magic number 1000 used in draw."
     },
     {
@@ -436,7 +436,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "59",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Magic number 6 used in draw."
     },
     {
@@ -447,7 +447,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "60",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Magic number 12 used in draw."
     },
     {
@@ -458,7 +458,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "58",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Checkers/post_coding/ui.py",
         "Description": "Magic number 8 used in draw."
     }
 ]

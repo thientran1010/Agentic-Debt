@@ -6,7 +6,7 @@
         "Smell": "Deficient encapsulation",
         "Class": "QuizApp",
         "Line no": "32",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TriviaQuiz/final/main.py",
         "Description": "Class 'QuizApp' accesses non-public code elements __name__ from __init__"
     }
 ]

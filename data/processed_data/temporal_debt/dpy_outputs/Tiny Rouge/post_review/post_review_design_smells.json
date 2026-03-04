@@ -6,7 +6,7 @@
         "Smell": "Broken modularization",
         "Class": "MapData",
         "Line no": "16",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/post_review/mapgen.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/post_review/mapgen.py",
         "Description": "Class 'MapData' contains only data members without any method implementations."
     }
 ]

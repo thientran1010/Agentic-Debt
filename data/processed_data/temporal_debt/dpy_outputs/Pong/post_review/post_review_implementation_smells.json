@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "update",
         "Line no": "198 - 224",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Method 'update' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long parameter list",
         "Method": "__init__",
         "Line no": "19 - 33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "__init__ has 6 parameters, exceeding the max of 5."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long parameter list",
         "Method": "__init__",
         "Line no": "87 - 112",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "__init__ has 8 parameters, exceeding the max of 5."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "20",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "A line with 360 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "update",
         "Line no": "59",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "A line with 151 chars in update exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "draw",
         "Line no": "74",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "A line with 154 chars in draw exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long statement",
         "Method": "__init__",
         "Line no": "89",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "A line with 455 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "reset",
         "Line no": "122",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "A line with 266 chars in reset exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long statement",
         "Method": "_handle_paddle_collision",
         "Line no": "175",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "A line with 223 chars in _handle_paddle_collision exceeds the maximum length of 120 characters."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "update",
         "Line no": "199",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "A line with 222 chars in update exceeds the maximum length of 120 characters."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "draw",
         "Line no": "227",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "A line with 152 chars in draw exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "73",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 240 used in draw."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "73",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 240 used in draw."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "73",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 240 used in draw."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "88",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 900.0 used in __init__."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "88",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 1.06 used in __init__."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "_handle_paddle_collision",
         "Line no": "188",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 0.8 used in _handle_paddle_collision."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "_handle_paddle_collision",
         "Line no": "182",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 2.0 used in _handle_paddle_collision."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "_handle_paddle_collision",
         "Line no": "194",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 0.01 used in _handle_paddle_collision."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "_handle_paddle_collision",
         "Line no": "196",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 0.01 used in _handle_paddle_collision."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "226",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 240 used in draw."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "226",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 240 used in draw."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Magic number",
         "Method": "draw",
         "Line no": "226",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/entities.py",
         "Description": "Magic number 240 used in draw."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Pong/post_review/settings.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Pong/post_review/settings.py",
         "Description": "A line with 161 chars in settings exceeds the maximum length of 120 characters."
     }
 ]

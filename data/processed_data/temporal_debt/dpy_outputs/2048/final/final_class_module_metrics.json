@@ -14,7 +14,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/final/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/final/game.py"
     },
     {
         "Project": "final",
@@ -31,7 +31,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/final/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/final/game.py"
     },
     {
         "Project": "final",
@@ -48,6 +48,6 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/2048/final/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/2048/final/main.py"
     }
 ]

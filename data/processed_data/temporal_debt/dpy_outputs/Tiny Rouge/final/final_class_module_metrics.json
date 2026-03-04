@@ -14,7 +14,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/entities.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/entities.py"
     },
     {
         "Project": "final",
@@ -31,7 +31,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/entities.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/entities.py"
     },
     {
         "Project": "final",
@@ -48,7 +48,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/entities.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/entities.py"
     },
     {
         "Project": "final",
@@ -65,7 +65,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/constants.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/constants.py"
     },
     {
         "Project": "final",
@@ -82,7 +82,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py"
     },
     {
         "Project": "final",
@@ -99,7 +99,7 @@
         "Fan-In": 1,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/ui.py"
     },
     {
         "Project": "final",
@@ -116,7 +116,7 @@
         "Fan-In": 1,
         "Fan-Out": 2,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py"
     },
     {
         "Project": "final",
@@ -133,7 +133,7 @@
         "Fan-In": 0,
         "Fan-Out": 2,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/game.py"
     },
     {
         "Project": "final",
@@ -150,7 +150,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py"
     },
     {
         "Project": "final",
@@ -167,7 +167,7 @@
         "Fan-In": 0,
         "Fan-Out": 0,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/mapgen.py"
     },
     {
         "Project": "final",
@@ -184,6 +184,6 @@
         "Fan-In": 0,
         "Fan-Out": 1,
         "DIT": 0,
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/main.py"
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Tiny Rouge/final/main.py"
     }
 ]

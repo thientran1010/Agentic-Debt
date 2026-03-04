@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "_new_game",
         "Line no": "83 - 120",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
         "Description": "Method '_new_game' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Complex method",
         "Method": "_refresh_cells",
         "Line no": "143 - 169",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
         "Description": "Method '_refresh_cells' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Long statement",
         "Method": "_build_controls",
         "Line no": "78",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
         "Description": "A line with 130 chars in _build_controls exceeds the maximum length of 120 characters."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Long statement",
         "Method": "_new_game",
         "Line no": "96",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
         "Description": "A line with 178 chars in _new_game exceeds the maximum length of 120 characters."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Long statement",
         "Method": "_schedule_timer_tick",
         "Line no": "187",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
         "Description": "A line with 168 chars in _schedule_timer_tick exceeds the maximum length of 120 characters."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/gui.py",
         "Description": "A line with 501 chars in gui exceeds the maximum length of 120 characters."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Complex method",
         "Method": "_flood_reveal",
         "Line no": "96 - 114",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/game.py",
         "Description": "Method '_flood_reveal' has a cyclomatic complexity of 10, exceeding the max of 6."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long statement",
         "Method": "reveal",
         "Line no": "73",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/game.py",
         "Description": "A line with 244 chars in reveal exceeds the maximum length of 120 characters."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long statement",
         "Method": "left_click",
         "Line no": "172",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/game.py",
         "Description": "A line with 150 chars in left_click exceeds the maximum length of 120 characters."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Minesweeper/final/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Minesweeper/final/game.py",
         "Description": "A line with 170 chars in game exceeds the maximum length of 120 characters."
     }
 ]

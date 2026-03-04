@@ -7,7 +7,7 @@
         "Smell": "Complex method",
         "Method": "update",
         "Line no": "38 - 49",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
         "Description": "Method 'update' has a cyclomatic complexity of 7, exceeding the max of 6."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
         "Description": "A line with 211 chars in entities exceeds the maximum length of 120 characters."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Magic number",
         "Method": "_draw_ship",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
         "Description": "Magic number 0.5 used in _draw_ship."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Magic number",
         "Method": "_draw_ship",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
         "Description": "Magic number 0.15 used in _draw_ship."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Magic number",
         "Method": "_draw_ship",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
         "Description": "Magic number 0.5 used in _draw_ship."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Magic number",
         "Method": "_draw_ship",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
         "Description": "Magic number 0.85 used in _draw_ship."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Magic number",
         "Method": "_draw_ship",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
         "Description": "Magic number 0.5 used in _draw_ship."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Magic number",
         "Method": "shoot",
         "Line no": "56",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/entities.py",
         "Description": "Magic number 2 used in shoot."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Complex method",
         "Method": "update",
         "Line no": "36 - 51",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Method 'update' has a cyclomatic complexity of 8, exceeding the max of 6."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Complex method",
         "Method": "handle_events",
         "Line no": "136 - 161",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Method 'handle_events' has a cyclomatic complexity of 9, exceeding the max of 6."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "_draw_hud",
         "Line no": "237",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "A line with 164 chars in _draw_hud exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "A line with 379 chars in game exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Magic number",
         "Method": "new_game",
         "Line no": "107",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Magic number 2 used in new_game."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "spawn_aliens",
         "Line no": "125",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Magic number 2 used in spawn_aliens."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "lose_life",
         "Line no": "202",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Magic number 2 used in lose_life."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "_draw_hud",
         "Line no": "235",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Magic number 12 used in _draw_hud."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "_draw_hud",
         "Line no": "233",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Magic number 22 used in _draw_hud."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "_draw_hud",
         "Line no": "233",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Magic number 14 used in _draw_hud."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "_draw_hud",
         "Line no": "234",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/game.py",
         "Description": "Magic number 110 used in _draw_hud."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/TextBasedSpaceInvaders/post_review/main.py",
         "Description": "A line with 130 chars in main exceeds the maximum length of 120 characters."
     }
 ]

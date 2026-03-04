@@ -7,7 +7,7 @@
         "Smell": "Complex conditional",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "239",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "A conditional in generate_pseudo_legal_moves has 4 conditions, more than the recommended maximum 3 conditions."
     },
     {
@@ -18,7 +18,7 @@
         "Smell": "Complex conditional",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "257",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "A conditional in generate_pseudo_legal_moves has 4 conditions, more than the recommended maximum 3 conditions."
     },
     {
@@ -29,7 +29,7 @@
         "Smell": "Complex method",
         "Method": "is_square_attacked",
         "Line no": "52 - 100",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Method 'is_square_attacked' has a cyclomatic complexity of 20, exceeding the max of 6."
     },
     {
@@ -40,7 +40,7 @@
         "Smell": "Complex method",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "113 - 260",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Method 'generate_pseudo_legal_moves' has a cyclomatic complexity of 76, exceeding the max of 6."
     },
     {
@@ -51,7 +51,7 @@
         "Smell": "Complex method",
         "Method": "_update_castling_rights_on_move",
         "Line no": "270 - 301",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Method '_update_castling_rights_on_move' has a cyclomatic complexity of 16, exceeding the max of 6."
     },
     {
@@ -62,7 +62,7 @@
         "Smell": "Complex method",
         "Method": "make_move",
         "Line no": "302 - 367",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Method 'make_move' has a cyclomatic complexity of 11, exceeding the max of 6."
     },
     {
@@ -73,7 +73,7 @@
         "Smell": "Long identifier",
         "Method": "_update_castling_rights_on_move",
         "Line no": "270",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Identifier'_update_castling_rights_on_move' exceeds the maximum length of 30 characters."
     },
     {
@@ -84,7 +84,7 @@
         "Smell": "Long method",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "113 - 260",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Method 'generate_pseudo_legal_moves' is too long (148 lines)."
     },
     {
@@ -95,7 +95,7 @@
         "Smell": "Long parameter list",
         "Method": "_add_move",
         "Line no": "104 - 112",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "_add_move has 6 parameters, exceeding the max of 5."
     },
     {
@@ -106,7 +106,7 @@
         "Smell": "Long statement",
         "Method": "setup_start_position",
         "Line no": "17",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "A line with 360 chars in setup_start_position exceeds the maximum length of 120 characters."
     },
     {
@@ -117,7 +117,7 @@
         "Smell": "Long statement",
         "Method": "_add_move",
         "Line no": "111",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "A line with 161 chars in _add_move exceeds the maximum length of 120 characters."
     },
     {
@@ -128,7 +128,7 @@
         "Smell": "Long statement",
         "Method": "make_move",
         "Line no": "361",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "A line with 231 chars in make_move exceeds the maximum length of 120 characters."
     },
     {
@@ -139,7 +139,7 @@
         "Smell": "Magic number",
         "Method": "__init__",
         "Line no": "11",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 64 used in __init__."
     },
     {
@@ -150,7 +150,7 @@
         "Smell": "Magic number",
         "Method": "print_board",
         "Line no": "35",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in print_board."
     },
     {
@@ -161,7 +161,7 @@
         "Smell": "Magic number",
         "Method": "print_board",
         "Line no": "38",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in print_board."
     },
     {
@@ -172,7 +172,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in is_square_attacked."
     },
     {
@@ -183,7 +183,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in is_square_attacked."
     },
     {
@@ -194,7 +194,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in is_square_attacked."
     },
     {
@@ -205,7 +205,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in is_square_attacked."
     },
     {
@@ -216,7 +216,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "59",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -227,7 +227,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "59",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -238,7 +238,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in is_square_attacked."
     },
     {
@@ -249,7 +249,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in is_square_attacked."
     },
     {
@@ -260,7 +260,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in is_square_attacked."
     },
     {
@@ -271,7 +271,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "65",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in is_square_attacked."
     },
     {
@@ -282,7 +282,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "67",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -293,7 +293,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "67",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -304,7 +304,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "74",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -315,7 +315,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "74",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -326,7 +326,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "85",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -337,7 +337,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "85",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -348,7 +348,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "96",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -359,7 +359,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "96",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -370,7 +370,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "60",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -381,7 +381,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "68",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -392,7 +392,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "75",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -403,7 +403,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "86",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -414,7 +414,7 @@
         "Smell": "Magic number",
         "Method": "is_square_attacked",
         "Line no": "97",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in is_square_attacked."
     },
     {
@@ -425,7 +425,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "124",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 6 used in generate_pseudo_legal_moves."
     },
     {
@@ -436,7 +436,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "125",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 7 used in generate_pseudo_legal_moves."
     },
     {
@@ -447,7 +447,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "128",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -458,7 +458,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "129",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -469,7 +469,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "148",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -480,7 +480,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "148",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -491,7 +491,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "164",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -502,7 +502,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "164",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -513,7 +513,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "164",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -524,7 +524,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "164",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -535,7 +535,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "140",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -546,7 +546,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "149",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -557,7 +557,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "164",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -568,7 +568,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "164",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -579,7 +579,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "164",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -590,7 +590,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "164",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -601,7 +601,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "166",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -612,7 +612,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "166",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -623,7 +623,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "139",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in generate_pseudo_legal_moves."
     },
     {
@@ -634,7 +634,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "152",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 7 used in generate_pseudo_legal_moves."
     },
     {
@@ -645,7 +645,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "167",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -656,7 +656,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "174",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -667,7 +667,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "174",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -678,7 +678,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "141",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -689,7 +689,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "142",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -700,7 +700,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "175",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -711,7 +711,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "188",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -722,7 +722,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "188",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -733,7 +733,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "189",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -744,7 +744,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "202",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -755,7 +755,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "202",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -766,7 +766,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "203",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -777,7 +777,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "216",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -788,7 +788,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "216",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -799,7 +799,7 @@
         "Smell": "Magic number",
         "Method": "generate_pseudo_legal_moves",
         "Line no": "217",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in generate_pseudo_legal_moves."
     },
     {
@@ -810,7 +810,7 @@
         "Smell": "Magic number",
         "Method": "make_move",
         "Line no": "333",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 6 used in make_move."
     },
     {
@@ -821,7 +821,7 @@
         "Smell": "Magic number",
         "Method": "make_move",
         "Line no": "318",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in make_move."
     },
     {
@@ -832,7 +832,7 @@
         "Smell": "Magic number",
         "Method": "make_move",
         "Line no": "320",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 8 used in make_move."
     },
     {
@@ -843,7 +843,7 @@
         "Smell": "Magic number",
         "Method": "make_move",
         "Line no": "356",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in make_move."
     },
     {
@@ -854,7 +854,7 @@
         "Smell": "Magic number",
         "Method": "make_move",
         "Line no": "357",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/board.py",
         "Description": "Magic number 2 used in make_move."
     },
     {
@@ -865,7 +865,7 @@
         "Smell": "Complex method",
         "Method": "generate_san_for_move",
         "Line no": "15 - 62",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "Method 'generate_san_for_move' has a cyclomatic complexity of 16, exceeding the max of 6."
     },
     {
@@ -876,7 +876,7 @@
         "Smell": "Complex method",
         "Method": "parse_user_input",
         "Line no": "88 - 130",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "Method 'parse_user_input' has a cyclomatic complexity of 8, exceeding the max of 6."
     },
     {
@@ -887,7 +887,7 @@
         "Smell": "Long statement",
         "Method": "generate_san_for_move",
         "Line no": "30",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "A line with 137 chars in generate_san_for_move exceeds the maximum length of 120 characters."
     },
     {
@@ -898,7 +898,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "A line with 151 chars in san exceeds the maximum length of 120 characters."
     },
     {
@@ -909,7 +909,7 @@
         "Smell": "Magic number",
         "Method": "generate_san_for_move",
         "Line no": "20",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "Magic number 8 used in generate_san_for_move."
     },
     {
@@ -920,7 +920,7 @@
         "Smell": "Magic number",
         "Method": "generate_san_for_move",
         "Line no": "21",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "Magic number 6 used in generate_san_for_move."
     },
     {
@@ -931,7 +931,7 @@
         "Smell": "Magic number",
         "Method": "generate_san_for_move",
         "Line no": "32",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "Magic number 8 used in generate_san_for_move."
     },
     {
@@ -942,7 +942,7 @@
         "Smell": "Magic number",
         "Method": "generate_san_for_move",
         "Line no": "33",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "Magic number 8 used in generate_san_for_move."
     },
     {
@@ -953,7 +953,7 @@
         "Smell": "Magic number",
         "Method": "parse_user_input",
         "Line no": "103",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/san.py",
         "Description": "Magic number 5 used in parse_user_input."
     },
     {
@@ -964,7 +964,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/__init__.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/__init__.py",
         "Description": "A line with 280 chars in __init__ exceeds the maximum length of 120 characters."
     },
     {
@@ -975,7 +975,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
         "Description": "A line with 149 chars in utils exceeds the maximum length of 120 characters."
     },
     {
@@ -986,7 +986,7 @@
         "Smell": "Magic number",
         "Method": "index_to_coord",
         "Line no": "10",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
         "Description": "Magic number 8 used in index_to_coord."
     },
     {
@@ -997,7 +997,7 @@
         "Smell": "Magic number",
         "Method": "index_to_coord",
         "Line no": "10",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
         "Description": "Magic number 8 used in index_to_coord."
     },
     {
@@ -1008,7 +1008,7 @@
         "Smell": "Magic number",
         "Method": "coord_to_index",
         "Line no": "12",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
         "Description": "Magic number 8 used in coord_to_index."
     },
     {
@@ -1019,7 +1019,7 @@
         "Smell": "Magic number",
         "Method": "square_to_index",
         "Line no": "19",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
         "Description": "Magic number 2 used in square_to_index."
     },
     {
@@ -1030,7 +1030,7 @@
         "Smell": "Magic number",
         "Method": "square_to_index",
         "Line no": "28",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/utils.py",
         "Description": "Magic number 8 used in square_to_index."
     },
     {
@@ -1041,7 +1041,7 @@
         "Smell": "Complex method",
         "Method": "main",
         "Line no": "16 - 69",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/main.py",
         "Description": "Method 'main' has a cyclomatic complexity of 12, exceeding the max of 6."
     },
     {
@@ -1052,7 +1052,7 @@
         "Smell": "Long statement",
         "Method": "",
         "Line no": "1",
-        "File": "/home/kira/ChatDev_GPT-5_Reasoning/data/processed_data/temporal_debt/snapshots/Chess/final/main.py",
+        "File": "/home/kira/agent_debt/data/processed_data/temporal_debt/snapshots/Chess/final/main.py",
         "Description": "A line with 406 chars in main exceeds the maximum length of 120 characters."
     }
 ]
